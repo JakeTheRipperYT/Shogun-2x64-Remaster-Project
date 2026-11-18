@@ -4,4 +4,4 @@
 
 Extract the ZIP and open **Shogun-2x64-Remaster-Project.exe**. Click **Install 64-bit patch**. The launcher detects your original Steam installation and downloads the patch files automatically.
 
-This release was built against the English Steam installation of Total War: SHOGUN 2.
+The launcher applies the text fixes to the language installed through Steam. It reuses unchanged Steam files where possible. Installation requires an available `Shogun2_64bit_Patch` folder inside the original game's directory.
